@@ -1,4 +1,4 @@
-# daily / policy=DIRECT  (32 rules)
+# daily / policy=DIRECT  (65 rules)
 # Source: migrated from lxy-fixed.lcf [Rule] on 2026-11-21
 
 DOMAIN,quanpan.xyz
@@ -36,3 +36,45 @@ DOMAIN-SUFFIX,qtfm.cn
 DOMAIN-SUFFIX,mekui.com
 DOMAIN-SUFFIX,aikeu.com
 DOMAIN-SUFFIX,placehold.co
+
+# === 国内常用服务直连保险（2026-11-21 补）===
+# 视频
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,mgtv.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,ixigua.com
+# 音乐/音频
+DOMAIN-SUFFIX,kugou.com
+DOMAIN-SUFFIX,ximalaya.com
+# 网盘
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,alipan.com
+DOMAIN-SUFFIX,123pan.com
+DOMAIN-SUFFIX,jianguoyun.com
+DOMAIN-SUFFIX,weiyun.com
+# 软件/社区
+DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,sogou.com
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+# 购物/生活
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,yangkeduo.com
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,qunar.com
+# 国内AI/游戏
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,mihoyo.com
+# 银行
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,ccb.com
