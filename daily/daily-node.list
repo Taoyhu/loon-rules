@@ -1,0 +1,17 @@
+# daily / policy=节点选择  (11 rules)
+# Source: migrated from lxy-fixed.lcf [Rule] on 2026-11-21
+
+# 微信直连（前置，避免被域名规则抢先分流）
+DOMAIN-SUFFIX,pimpbunny.com
+DOMAIN,kanav.ad
+DOMAIN,upload.ycomesc.live
+DOMAIN,huangguoai.com
+DOMAIN,animestream-addon.keypop3750.workers.dev
+DOMAIN,www.xnxx.com
+#禁漫天堂
+DOMAIN-KEYWORD,18comic
+DOMAIN-KEYWORD,jmcomic
+DOMAIN-KEYWORD,comic18
+#癫影
+DOMAIN,m.dian115.com
+DOMAIN-SUFFIX,ifeng.com

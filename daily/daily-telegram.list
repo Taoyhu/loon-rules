@@ -1,0 +1,5 @@
+# daily / policy=电报消息  (1 rules)
+# Source: migrated from lxy-fixed.lcf [Rule] on 2026-11-21
+
+#Turrit
+DOMAIN-SUFFIX,api.iturrit.com

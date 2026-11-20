@@ -1,0 +1,22 @@
+# modules / policy=影视刮削  (19 rules)
+# Source: migrated from lxy-fixed.lcf [Rule] on 2026-11-21
+
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,thetvdb.com
+DOMAIN-SUFFIX,tvdb.com
+DOMAIN-SUFFIX,tvmaze.com
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,media-imdb.com
+DOMAIN-SUFFIX,omdbapi.com
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,rottentomatoes.com
+DOMAIN-SUFFIX,letterboxd.com
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,bangumi.tv
+DOMAIN-SUFFIX,chii.in
+DOMAIN-SUFFIX,myanimelist.net
+DOMAIN-SUFFIX,anidb.net
+DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,opensubtitles.org
+DOMAIN-SUFFIX,opensubtitles.com

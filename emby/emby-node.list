@@ -1,0 +1,6 @@
+# emby / policy=节点选择  (2 rules)
+# Source: migrated from lxy-fixed.lcf [Rule] on 2026-11-21
+
+DOMAIN,ca.montahd.com
+#欧乐影视
+DOMAIN-SUFFIX,olelive.com

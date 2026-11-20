@@ -1,0 +1,4 @@
+# modules / policy=香港节点  (1 rules)
+# Source: migrated from lxy-fixed.lcf [Rule] on 2026-11-21
+
+DOMAIN-SUFFIX,hanimeone.me

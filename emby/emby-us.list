@@ -1,0 +1,4 @@
+# emby / policy=美国节点  (1 rules)
+# Source: migrated from lxy-fixed.lcf [Rule] on 2026-11-21
+
+IP-CIDR,216.144.234.247/32,no-resolve

@@ -1,0 +1,6 @@
+# modules / policy=GitHub  (2 rules)
+# Source: migrated from lxy-fixed.lcf [Rule] on 2026-11-21
+
+#==Rex-home模块==
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.com

@@ -1,0 +1,14 @@
+# modules / policy=日本节点  (7 rules)
+# Source: migrated from lxy-fixed.lcf [Rule] on 2026-11-21
+
+#封面拼接（jp代理）
+DOMAIN-SUFFIX,pics.dmm.co.jp
+DOMAIN-SUFFIX,awsimgsrc.dmm.co.jp
+DOMAIN-SUFFIX,image.mgstage.com
+#==每日大赛模块==
+DOMAIN-SUFFIX,mrds66.com
+#cf解密
+DOMAIN,dawn-butterfly-5255.taoyhu-3ef.workers.dev
+#==EPorner模块==
+DOMAIN-SUFFIX,eporner.com
+DOMAIN-KEYWORD,eporner
