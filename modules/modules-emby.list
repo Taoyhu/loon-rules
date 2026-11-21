@@ -1,10 +1,5 @@
-# modules / policy=emby  (4 rules)
+# modules / policy=emby  (1 rules)
 # Source: migrated from lxy-fixed.lcf [Rule] on 2026-11-21
 
 #==爱动漫模块==
 DOMAIN-SUFFIX,girigirilove.com
-
-#==hanime1==
-DOMAIN-SUFFIX,hanime1.me
-DOMAIN-SUFFIX,hembed.com
-DOMAIN-SUFFIX,iili.io
