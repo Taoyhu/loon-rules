@@ -1,8 +1,4 @@
-# modules / policy=美国节点  (4 rules)
+# modules / policy=美国节点  (1 rules)
 # Source: migrated from lxy-fixed.lcf [Rule] on 2026-11-21
 
 DOMAIN-SUFFIX,missav.ai
-#==hanime1==
-DOMAIN-SUFFIX,hanime1.me
-DOMAIN-SUFFIX,hembed.com
-DOMAIN-SUFFIX,iili.io
