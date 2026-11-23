@@ -1,4 +1,4 @@
-# modules / policy=DIRECT  (96 rules)
+# modules / policy=DIRECT  (95 rules)
 # Source: migrated from lxy-fixed.lcf [Rule] on 2026-11-21
 
 DOMAIN-SUFFIX,douban.com

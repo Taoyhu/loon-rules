@@ -1,4 +1,4 @@
-# daily / policy=DIRECT  (65 rules)
+# daily / policy=DIRECT  (82 rules)
 # Source: migrated from lxy-fixed.lcf [Rule] on 2026-11-21
 
 DOMAIN,quanpan.xyz
@@ -78,3 +78,28 @@ DOMAIN-SUFFIX,mihoyo.com
 # 银行
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,ccb.com
+# === 短剧/小说类直连（2026-11-23 补）===
+# 红果/抖音及弹幕（douyin.com/snssdk.com/kuaishou.com 已在上方）
+DOMAIN-SUFFIX,fqnovel.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,fqnovelpic.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytednsdoc.com
+# 七猫
+DOMAIN-SUFFIX,qmplaylet.com
+DOMAIN-SUFFIX,wtzw.com
+# 星芽（其余域名为 .cn，已被 ChinaMax 的 ,cn 后缀覆盖）
+DOMAIN-SUFFIX,shytkjgs.com
+# 喜番
+DOMAIN-SUFFIX,adukwai.com
+# 火龙及弹幕（原 4 条 qq 子域名合并为后缀一条）
+DOMAIN-SUFFIX,qq.com
+# 好看/柚漫剧
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdstatic.com
+# 围观
+DOMAIN-SUFFIX,9ddm.com
