@@ -1,4 +1,4 @@
-# modules / policy=节点选择  (91 rules)
+# modules / policy=节点选择  (93 rules)
 # Source: migrated from lxy-fixed.lcf [Rule] on 2026-11-21
 
 DOMAIN,module-host.xtbecdi7690.workers.dev
@@ -121,3 +121,6 @@ DOMAIN-SUFFIX,malaysla.com
 DOMAIN-SUFFIX,newpppp.com
 DOMAIN-SUFFIX,nivod4.tv
 DOMAIN-SUFFIX,ulivetv.net
+#==AniCh模块==
+DOMAIN-SUFFIX,sends.eu.org
+DOMAIN-SUFFIX,emmmm.eu.org
